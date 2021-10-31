@@ -1,10 +1,16 @@
+[![GitHub license](https://img.shields.io/badge/dwsclass-009--compose-orange?style=plastic)](https://github.com/mi-alkhamis/docker-compose-cheatsheet/)
+[![GitHub license](https://img.shields.io/github/license/mi-alkhamis/docker-compose-cheatsheet?style=plastic)](https://github.com/mi-alkhamis/docker-compose-cheatsheet/blob/main/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/mi-alkhamis/docker-compose-cheatsheet?style=plastic)](https://github.com/mi-alkhamis/docker-compose-cheatsheet/network)
+[![GitHub stars](https://img.shields.io/github/stars/mi-alkhamis/docker-compose-cheatsheet?color=red&style=plastic)](https://github.com/mi-alkhamis/docker-compose-cheatsheet/stargazers)
+
 # Docker Compose Cheatsheet
 
+![docker-compose-logo](https://tcude.net/content/images/2021/08/docker-compose-button.jpg)
 
  1. What is docker-compose 
 
-        We use Docker-compose to build and deploy our app(Dockerize them
-        to do this, need a file named compose file in YAML format like
+    We use Docker-compose to build and deploy our app(Dockerize them
+    to do this, need a file named compose file in YAML format like
    
 ```yaml
 version: !!str 3
